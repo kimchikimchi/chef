@@ -11,7 +11,7 @@ package 'git' do
 end
 
 file '/etc/motd' do
-  content 'This server is the property of Jay'
+  content "This server is the property of Jay\n"
   action :create
   owner 'root'
   group 'root'

@@ -10,8 +10,8 @@ package 'git' do
   action :install
 end
 
-file '/etc/motd' do
-  content "This server is the property of Jay\n"
+template '/etc/motd' do
+  source 'motd.erb'
   action :create
   owner 'root'
   group 'root'

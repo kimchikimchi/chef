@@ -1,0 +1,9 @@
+{
+	"id": "mochi",
+	"comment": "I am Mochi",
+	"uid": 102,
+	"gid": 1,
+	"home": "/home/mochi",
+	"shell": "/bin/bash",
+	"platform": "centos"
+}

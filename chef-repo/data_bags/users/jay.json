@@ -1,0 +1,9 @@
+{
+	"id": "jay",
+	"comment": "I am Jay",
+	"uid": 100,
+	"gid": 1,
+	"home": "/home/jay",
+	"shell": "/bin/bash",
+	"platform": "centos"
+}

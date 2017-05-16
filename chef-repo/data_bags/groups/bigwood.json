@@ -1,0 +1,6 @@
+{
+	"id": "bigwood",
+	"gid": 2000,
+	"members": ["jay","jim", "mochi"],
+	"platform": "centos"
+}
